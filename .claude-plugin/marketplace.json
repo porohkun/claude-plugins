@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "claude-plugins",
+  "description": "Личные плагины Claude Code",
+  "owner": {
+    "name": "Порох"
+  },
+  "plugins": [
+    {
+      "name": "project-hygiene",
+      "source": "./plugins/project-hygiene",
+      "description": "Чистка проекта и документации от осадка принятых решений, приведение к единому виду",
+      "category": "development"
+    }
+  ]
+}
