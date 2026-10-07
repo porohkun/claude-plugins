@@ -1,8 +1,7 @@
 {
-  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "project-hygiene",
   "displayName": "Project Hygiene",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Приводит проект и его документацию к единому виду: сокращает осадок из принятых решений, разбирает комментарии и XML-доки, поддерживает чистоту после изменений.",
   "author": {
     "name": "Порох"
